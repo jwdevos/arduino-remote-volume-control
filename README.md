@@ -1,3 +1,5 @@
+**-- this repo will be archived and moved to https://codeberg.org/jwdevos/arduino-remote-volume-control --**
+
 # arduino-remote-volume-control
 This project enables you to use an Arduino and an IR remote to control a motorised potentiometer, as typically found in stereo amplifiers with remote volume control.  
 The benefit of this approach is that you don't need a separate board (and PSU for that board) to drive the motor. The motorised version of the popular Alps blue potentiometers require 100 mA to turn the pot. Each Arduino pin can provide up to 20 mA, so 5 pins combined is enough to turn the pot.  
